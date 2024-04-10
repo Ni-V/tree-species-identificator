@@ -1,1 +1,1 @@
-# tree-species-identificator
+ This QGIS plugin helps to identify the spicies of trees.
